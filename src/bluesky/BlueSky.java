@@ -11,6 +11,7 @@ import javax.swing.WindowConstants;
 public class BlueSky {
 
 
+    
     public static void main(String[] args) {
        JFrame window = new JFrame("Swing");
        MyCanvas canvas = new MyCanvas();
